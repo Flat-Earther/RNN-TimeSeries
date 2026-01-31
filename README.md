@@ -9,6 +9,8 @@ Key outcomes:
 - High classification performance (binarized accuracy reported ~**99.832%**)
 - Per-anomaly explainability that maps individual anomaly clusters to defect labels
 
+![Explainability example](example.png)
+
 ---
 
 ## Files
